@@ -4,7 +4,7 @@
 
 I enjoy turning ideas into practical software — from building user-facing interfaces and backend APIs to exploring how AI can make applications more useful, intuitive, and accessible.
 
-I'm focused on writing maintainable code, strengthening problem-solving skills, and building projects that solve real problems rather than just demonstrate technologies.
+I'm a Computer Science graduate in 2026, I enjoy learning by building projects, exploring how applications work end to end, and improving my problem-solving and development skills through hands-on practice.
 
 ### What I'm Working On
 
