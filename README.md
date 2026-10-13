@@ -26,7 +26,7 @@ An AI-powered document assistant exploring PDF ingestion, semantic retrieval, an
 ### Technologies I Work With
 
 - **Languages:** Python, JavaScript, C++, SQL
-- **Frontend:** HTML, CSS, React, BootStrap, TailWind
+- **Frontend:** HTML, CSS, React, TailWind
 - **Backend:** Django, Django REST Framework
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **AI Applications:** LLMs, RAG, LangChain, embeddings
